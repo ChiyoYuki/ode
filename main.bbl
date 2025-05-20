@@ -1,0 +1,83 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Li1999}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=793e2836afd64ff5a298c50142725ea1}{%
+           family={李晓东},
+           familyi={李\bibinitperiod}}}%
+        {{hash=f21ff6d9856273e355120f498efc5812}{%
+           family={张庆红},
+           familyi={张\bibinitperiod}}}%
+        {{hash=d4e2d1dd262282767a1d959049f6ce04}{%
+           family={叶瑾琳},
+           familyi={叶\bibinitperiod}}}%
+      }
+      \name{namea}{3}{}{%
+        {{hash=793e2836afd64ff5a298c50142725ea1}{%
+           family={李晓东},
+           familyi={李\bibinitperiod}}}%
+        {{hash=f21ff6d9856273e355120f498efc5812}{%
+           family={张庆红},
+           familyi={张\bibinitperiod}}}%
+        {{hash=d4e2d1dd262282767a1d959049f6ce04}{%
+           family={叶瑾琳},
+           familyi={叶\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{8ae24dc0b6205b0e2d7557187ebcdf87}
+      \strng{fullhash}{89b68689d40d9dc55980399ebbdf1d5f}
+      \strng{fullhashraw}{89b68689d40d9dc55980399ebbdf1d5f}
+      \strng{bibnamehash}{89b68689d40d9dc55980399ebbdf1d5f}
+      \strng{authorbibnamehash}{89b68689d40d9dc55980399ebbdf1d5f}
+      \strng{authornamehash}{8ae24dc0b6205b0e2d7557187ebcdf87}
+      \strng{authorfullhash}{89b68689d40d9dc55980399ebbdf1d5f}
+      \strng{authorfullhashraw}{89b68689d40d9dc55980399ebbdf1d5f}
+      \strng{nameabibnamehash}{89b68689d40d9dc55980399ebbdf1d5f}
+      \strng{nameanamehash}{8ae24dc0b6205b0e2d7557187ebcdf87}
+      \strng{nameafullhash}{89b68689d40d9dc55980399ebbdf1d5f}
+      \strng{nameafullhashraw}{89b68689d40d9dc55980399ebbdf1d5f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{北京大学学报: 自然科学版}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{number}{1}
+      \field{title}{气候学研究的若干理论问题}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{volume}{35}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{101\bibrangedash 106}
+      \range{pages}{6}
+      \keyw{Li1999}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
