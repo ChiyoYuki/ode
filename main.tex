@@ -2,30 +2,63 @@
 \usepackage{siunitx}
 \usepackage{amsthm}
 \usepackage[style=gb7714-2015]{biblatex}
+
 \addbibresource{refs.bib}
-\title{探究常微分方程与递推数列间的联系}
+
+\title{以初等积分法为例，探究一阶常微分方程与一阶差分方程间的联系}
 \author{张春晓 723602212561 \\ 软件工程学院 \quad{} 华东师范大学}
 \subject{常微分方程期末课程论文}
 \keywords{常微分方程, 数列, 初等积分法}
+
 \begin{document}
+
   \maketitle
+
   \begin{abstract}
     这里是摘要
   \end{abstract}
+
   \tableofcontents
+
   \chapter{背景介绍}
   \section{常微分方程}
-  \section{差分方程}
-  \section{数列}
-  \chapter{主要内容}
-  \begin{proof}
-    11
+  微分方程是指含有未知函数的导数的方程.未知函数的自变量是单变量的微分方程称为常微分方程.\cite{Zhang2015}
+  在前期学习中，我们知道对于特殊的几类方程，可以通过分离变量法求出微分方程的精确解. \\
 
-    2\cite{Li1999}
+  \section{差分方程}
+  设定义在整数集上的函数 $y_{n}=f(n), n \in \mathbb{Z}$ 定义其一阶差分为
+  $$
+  \nabla y_n = y_{n+1} - y_{n} = f(n+1) - f(n)
+  $$
+  通过递归法定义其$k$阶差分为
+  $$
+  \nabla^k y_n =\nabla (\nabla^{k-1} y_n) =\nabla^{k-1}y_{n+1}-\nabla^{k-1}y_n=\sum_{i=0}^k(-1)^iC_k^iy_{n+k-i}
+  k=2,3,\dots
+  $$
+  含有未知函数 $y_n$ 及其各阶差分的等式称为差分方程.\cite{ECNU2022}
+
+  \section{递推数列}
+
+  \section{目的}
+  微分与积分是极限意义下的差分与求和.而递推式又可以转换为差分方程.
+  故可以通过尝试将微分方程求解方法离散化得到部分特殊递推式的求解方法.
+  本文将从初等积分法出发，探讨几类可以使用初等积分法求解的常微分方程所对应的差分方程.
+
+  \chapter{主要内容}
+
+  \section{有关量的对应关系}
+
+  \begin{proof}
+    1
+
+    2
 
     3
   \end{proof}
+
   \chapter{相关应用}
+
   \printbibliography
+
 \end{document}
 

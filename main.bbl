@@ -19,63 +19,109 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{Li1999}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=793e2836afd64ff5a298c50142725ea1}{%
-           family={李晓东},
-           familyi={李\bibinitperiod}}}%
-        {{hash=f21ff6d9856273e355120f498efc5812}{%
-           family={张庆红},
+    \entry{Zhang2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=fa967a5d9a831c3f8d5e6ab4feab1d2e}{%
+           family={张祥},
            familyi={张\bibinitperiod}}}%
-        {{hash=d4e2d1dd262282767a1d959049f6ce04}{%
-           family={叶瑾琳},
-           familyi={叶\bibinitperiod}}}%
       }
-      \name{namea}{3}{}{%
-        {{hash=793e2836afd64ff5a298c50142725ea1}{%
-           family={李晓东},
-           familyi={李\bibinitperiod}}}%
-        {{hash=f21ff6d9856273e355120f498efc5812}{%
-           family={张庆红},
+      \name{namea}{1}{}{%
+        {{hash=fa967a5d9a831c3f8d5e6ab4feab1d2e}{%
+           family={张祥},
            familyi={张\bibinitperiod}}}%
-        {{hash=d4e2d1dd262282767a1d959049f6ce04}{%
-           family={叶瑾琳},
-           familyi={叶\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {chinese}%
       }
-      \strng{namehash}{8ae24dc0b6205b0e2d7557187ebcdf87}
-      \strng{fullhash}{89b68689d40d9dc55980399ebbdf1d5f}
-      \strng{fullhashraw}{89b68689d40d9dc55980399ebbdf1d5f}
-      \strng{bibnamehash}{89b68689d40d9dc55980399ebbdf1d5f}
-      \strng{authorbibnamehash}{89b68689d40d9dc55980399ebbdf1d5f}
-      \strng{authornamehash}{8ae24dc0b6205b0e2d7557187ebcdf87}
-      \strng{authorfullhash}{89b68689d40d9dc55980399ebbdf1d5f}
-      \strng{authorfullhashraw}{89b68689d40d9dc55980399ebbdf1d5f}
-      \strng{nameabibnamehash}{89b68689d40d9dc55980399ebbdf1d5f}
-      \strng{nameanamehash}{8ae24dc0b6205b0e2d7557187ebcdf87}
-      \strng{nameafullhash}{89b68689d40d9dc55980399ebbdf1d5f}
-      \strng{nameafullhashraw}{89b68689d40d9dc55980399ebbdf1d5f}
+      \list{location}{1}{%
+        {北京}%
+      }
+      \list{publisher}{1}{%
+        {科学出版社}%
+      }
+      \strng{namehash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{fullhash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{fullhashraw}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{bibnamehash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{authorbibnamehash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{authornamehash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{authorfullhash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{authorfullhashraw}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{nameabibnamehash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{nameanamehash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{nameafullhash}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
+      \strng{nameafullhashraw}{fa967a5d9a831c3f8d5e6ab4feab1d2e}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{北京大学学报: 自然科学版}
       \field{langid}{english}
       \field{languageid}{chinese}
       \field{lansortorder}{1}
-      \field{number}{1}
-      \field{title}{气候学研究的若干理论问题}
-      \field{usera}{J}
+      \field{title}{常微分方程}
+      \field{usera}{M}
       \field{userd}{chinese}
       \field{userf}{chinese}
-      \field{volume}{35}
-      \field{year}{1999}
+      \field{year}{2015}
       \field{dateera}{ce}
-      \field{pages}{101\bibrangedash 106}
-      \range{pages}{6}
-      \keyw{Li1999}
+      \field{pages}{1}
+      \range{pages}{1}
+      \keyw{Zhang2015}
+    \endentry
+    \entry{ECNU2022}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=86d8e13c4c57afeea0e84aa5cd58614f}{%
+           family={华东师范大学数学科学学院},
+           familyi={华\bibinitperiod}}}%
+        {{hash=3f9dfcc08ab7510f13bb05c2401d409a}{%
+           family={柴俊},
+           familyi={柴\bibinitperiod}}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=86d8e13c4c57afeea0e84aa5cd58614f}{%
+           family={华东师范大学数学科学学院},
+           familyi={华\bibinitperiod}}}%
+        {{hash=3f9dfcc08ab7510f13bb05c2401d409a}{%
+           family={柴俊},
+           familyi={柴\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \list{location}{1}{%
+        {上海}%
+      }
+      \list{publisher}{1}{%
+        {华东师范大学出版社}%
+      }
+      \strng{namehash}{5802d8bce83f742c4da71289785791f9}
+      \strng{fullhash}{4cff99a330473f6a8abebb6cf582f30b}
+      \strng{fullhashraw}{4cff99a330473f6a8abebb6cf582f30b}
+      \strng{bibnamehash}{4cff99a330473f6a8abebb6cf582f30b}
+      \strng{authorbibnamehash}{4cff99a330473f6a8abebb6cf582f30b}
+      \strng{authornamehash}{5802d8bce83f742c4da71289785791f9}
+      \strng{authorfullhash}{4cff99a330473f6a8abebb6cf582f30b}
+      \strng{authorfullhashraw}{4cff99a330473f6a8abebb6cf582f30b}
+      \strng{nameabibnamehash}{4cff99a330473f6a8abebb6cf582f30b}
+      \strng{nameanamehash}{5802d8bce83f742c4da71289785791f9}
+      \strng{nameafullhash}{4cff99a330473f6a8abebb6cf582f30b}
+      \strng{nameafullhashraw}{4cff99a330473f6a8abebb6cf582f30b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{title}{高等数学:适用于电子信息类、计算机类、物理学类各专业. 下}
+      \field{usera}{M}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{265\bibrangedash 266}
+      \range{pages}{2}
+      \keyw{ECNU2022}
     \endentry
   \enddatalist
 \endrefsection
